@@ -123,7 +123,7 @@ const miModulo = (() => {
             } else {
                 alert('La compu gana');
             }
-            }, 50);
+            }, 5);
 
     }
 
